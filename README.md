@@ -281,7 +281,7 @@ Rhesus macaque (*Macaca mulatta*) chromosome 16 fragment — `NC_133421.1:910569
 1. IBM Quantum Learning — [Data Encoding](https://quantum.cloud.ibm.com/learning/en/courses/quantum-machine-learning/data-encoding)
 2. Nakaji et al. — [Approximate Amplitude Encoding in Shallow Parameterized Quantum Circuits](https://doi.org/10.1103/PhysRevResearch.4.023136), Phys. Rev. Research **4**, 023136 (2022)
 3. IBM Qiskit — [FakeSherbrooke Backend](https://docs.quantum.ibm.com/api/qiskit-ibm-runtime/fake_provider)
-
+4. Schuld, M., & Petruccione, F. (2021). *Machine learning with quantum computers* (2nd ed.). Springer. [https://doi.org/10.1007/978-3-030-83098-4](https://doi.org/10.1007/978-3-030-83098-4)
 ---
 
 ## 📄 License
